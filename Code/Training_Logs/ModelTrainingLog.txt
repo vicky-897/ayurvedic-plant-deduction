@@ -1,0 +1,202 @@
+2022-03-12/10:52:47		Start of Training
+2022-03-12/10:52:47		Doing Preprocessing.
+2022-03-12/10:52:47		I enter Preprocessing.
+2022-03-12/10:52:48		Doing train_test_split.
+2022-03-12/10:52:48		Finish train_test_split.
+2022-03-12/10:52:48		Doing Normalizing.
+2022-03-12/10:52:50		Changing to categorical.
+2022-03-12/10:52:50		Model Building.
+2022-03-12/10:52:51		Compiling Model.
+2022-03-12/10:52:51		Again doing train_test_split.
+2022-03-12/10:52:51		Fitting a model.
+2022-03-12/10:53:39		Saving Model.
+2022-03-12/10:53:40		Plotting the training history.
+2022-03-12/10:55:09		Successful End of Training
+2022-12-13/12:21:32		Start of Training
+2022-12-13/12:21:32		Doing Preprocessing.
+2022-12-13/12:21:32		I enter Preprocessing.
+2022-12-13/12:21:33		Exception occured in tainingModel of trainModel class. Exception message:  [WinError 267] The directory name is invalid: '../dataset/disease.h5'
+2022-12-13/12:21:33		trainingModel Unsuccessful. Exited the trainingModel method of the trainModel class
+2022-12-13/12:22:01		Start of Training
+2022-12-13/12:22:01		Doing Preprocessing.
+2022-12-13/12:22:01		I enter Preprocessing.
+2022-12-13/12:22:02		Exception occured in tainingModel of trainModel class. Exception message:  [WinError 267] The directory name is invalid: '../dataset/disease.h5'
+2022-12-13/12:22:02		trainingModel Unsuccessful. Exited the trainingModel method of the trainModel class
+2022-12-13/12:29:38		Start of Training
+2022-12-13/12:29:38		Doing Preprocessing.
+2022-12-13/12:29:38		I enter Preprocessing.
+2022-12-13/12:29:39		Exception occured in tainingModel of trainModel class. Exception message:  [WinError 267] The directory name is invalid: '../dataset/disease.h5'
+2022-12-13/12:29:39		trainingModel Unsuccessful. Exited the trainingModel method of the trainModel class
+2022-12-13/12:28:51		Start of Training
+2022-12-13/12:28:51		Doing Preprocessing.
+2022-12-13/12:28:51		I enter Preprocessing.
+2022-12-13/12:28:51		Exception occured in tainingModel of trainModel class. Exception message:  [WinError 267] The directory name is invalid: '../dataset/disease.h5'
+2022-12-13/12:28:51		trainingModel Unsuccessful. Exited the trainingModel method of the trainModel class
+2022-12-13/13:15:51		Start of Training
+2022-12-13/13:15:51		Doing Preprocessing.
+2022-12-13/13:15:51		I enter Preprocessing.
+2022-12-13/13:15:51		Doing train_test_split.
+2022-12-13/13:15:51		Finish train_test_split.
+2022-12-13/13:15:51		Doing Normalizing.
+2022-12-13/13:15:51		Changing to categorical.
+2022-12-13/13:15:51		Model Building.
+2022-12-13/13:15:51		Compiling Model.
+2022-12-13/13:15:51		Again doing train_test_split.
+2022-12-13/13:15:51		Fitting a model.
+2022-12-13/13:16:17		Saving Model.
+2022-12-13/13:16:17		Plotting the training history.
+2022-12-13/13:16:17		Successful End of Training
+2022-12-13/14:06:48		Start of Training
+2022-12-13/14:06:48		Doing Preprocessing.
+2022-12-13/14:06:48		I enter Preprocessing.
+2022-12-13/14:06:48		Doing train_test_split.
+2022-12-13/14:06:49		Finish train_test_split.
+2022-12-13/14:06:49		Doing Normalizing.
+2022-12-13/14:06:49		Changing to categorical.
+2022-12-13/14:06:49		Model Building.
+2022-12-13/14:06:49		Compiling Model.
+2022-12-13/14:06:49		Again doing train_test_split.
+2022-12-13/14:06:49		Fitting a model.
+2022-12-13/14:07:15		Saving Model.
+2022-12-13/14:07:15		Plotting the training history.
+2022-12-13/14:07:15		Successful End of Training
+2022-12-13/14:08:52		Start of Training
+2022-12-13/14:08:52		Doing Preprocessing.
+2022-12-13/14:08:52		I enter Preprocessing.
+2022-12-13/14:08:53		Doing train_test_split.
+2022-12-13/14:08:53		Finish train_test_split.
+2022-12-13/14:08:53		Doing Normalizing.
+2022-12-13/14:08:53		Changing to categorical.
+2022-12-13/14:08:53		Model Building.
+2022-12-13/14:08:53		Compiling Model.
+2022-12-13/14:08:53		Again doing train_test_split.
+2022-12-13/14:08:53		Fitting a model.
+2022-12-13/14:09:18		Saving Model.
+2022-12-13/14:09:18		Plotting the training history.
+2022-12-13/14:09:18		Successful End of Training
+2022-12-13/14:11:41		Start of Training
+2022-12-13/14:11:41		Doing Preprocessing.
+2022-12-13/14:11:41		I enter Preprocessing.
+2022-12-13/14:11:41		Doing train_test_split.
+2022-12-13/14:11:41		Finish train_test_split.
+2022-12-13/14:11:41		Doing Normalizing.
+2022-12-13/14:11:41		Changing to categorical.
+2022-12-13/14:11:41		Model Building.
+2022-12-13/14:11:41		Compiling Model.
+2022-12-13/14:11:41		Again doing train_test_split.
+2022-12-13/14:11:41		Fitting a model.
+2022-12-13/14:12:07		Saving Model.
+2022-12-13/14:12:07		Plotting the training history.
+2022-12-13/14:12:07		Successful End of Training
+2022-12-13/14:13:34		Start of Training
+2022-12-13/14:13:34		Doing Preprocessing.
+2022-12-13/14:13:34		I enter Preprocessing.
+2022-12-13/14:13:34		Doing train_test_split.
+2022-12-13/14:13:34		Finish train_test_split.
+2022-12-13/14:13:34		Doing Normalizing.
+2022-12-13/14:13:35		Changing to categorical.
+2022-12-13/14:13:35		Model Building.
+2022-12-13/14:13:35		Compiling Model.
+2022-12-13/14:13:35		Again doing train_test_split.
+2022-12-13/14:13:35		Fitting a model.
+2022-12-13/14:14:00		Saving Model.
+2022-12-13/14:14:00		Plotting the training history.
+2022-12-13/14:14:00		Successful End of Training
+2022-12-13/14:15:28		Start of Training
+2022-12-13/14:15:28		Doing Preprocessing.
+2022-12-13/14:15:28		I enter Preprocessing.
+2022-12-13/14:15:29		Doing train_test_split.
+2022-12-13/14:15:29		Finish train_test_split.
+2022-12-13/14:15:29		Doing Normalizing.
+2022-12-13/14:15:29		Changing to categorical.
+2022-12-13/14:15:29		Model Building.
+2022-12-13/14:15:29		Compiling Model.
+2022-12-13/14:15:29		Again doing train_test_split.
+2022-12-13/14:15:29		Fitting a model.
+2022-12-13/14:15:55		Saving Model.
+2022-12-13/14:15:55		Plotting the training history.
+2022-12-13/14:15:55		Successful End of Training
+2022-12-13/14:17:42		Start of Training
+2022-12-13/14:17:42		Doing Preprocessing.
+2022-12-13/14:17:42		I enter Preprocessing.
+2022-12-13/14:17:42		Doing train_test_split.
+2022-12-13/14:17:42		Finish train_test_split.
+2022-12-13/14:17:42		Doing Normalizing.
+2022-12-13/14:17:42		Changing to categorical.
+2022-12-13/14:17:42		Model Building.
+2022-12-13/14:17:42		Compiling Model.
+2022-12-13/14:17:42		Again doing train_test_split.
+2022-12-13/14:17:42		Fitting a model.
+2022-12-13/14:17:53		Saving Model.
+2022-12-13/14:17:53		Plotting the training history.
+2022-12-13/14:17:53		Successful End of Training
+2022-12-13/14:24:02		Start of Training
+2022-12-13/14:24:02		Doing Preprocessing.
+2022-12-13/14:24:02		I enter Preprocessing.
+2022-12-13/14:24:02		Doing train_test_split.
+2022-12-13/14:24:02		Finish train_test_split.
+2022-12-13/14:24:02		Doing Normalizing.
+2022-12-13/14:24:02		Changing to categorical.
+2022-12-13/14:24:02		Model Building.
+2022-12-13/14:24:02		Compiling Model.
+2022-12-13/14:24:02		Again doing train_test_split.
+2022-12-13/14:24:02		Fitting a model.
+2022-12-13/14:24:13		Saving Model.
+2022-12-13/14:24:13		Plotting the training history.
+2022-12-13/14:24:14		Successful End of Training
+2022-12-13/14:28:11		Start of Training
+2022-12-13/14:28:11		Doing Preprocessing.
+2022-12-13/14:28:11		I enter Preprocessing.
+2022-12-13/14:28:12		Doing train_test_split.
+2022-12-13/14:28:12		Finish train_test_split.
+2022-12-13/14:28:12		Doing Normalizing.
+2022-12-13/14:28:12		Changing to categorical.
+2022-12-13/14:28:12		Model Building.
+2022-12-13/14:28:12		Compiling Model.
+2022-12-13/14:28:12		Again doing train_test_split.
+2022-12-13/14:28:12		Fitting a model.
+2022-12-13/14:28:22		Saving Model.
+2022-12-13/14:28:22		Plotting the training history.
+2022-12-13/14:28:23		Successful End of Training
+2022-12-13/14:29:29		Start of Training
+2022-12-13/14:29:29		Doing Preprocessing.
+2022-12-13/14:29:29		I enter Preprocessing.
+2022-12-13/14:29:30		Doing train_test_split.
+2022-12-13/14:29:30		Finish train_test_split.
+2022-12-13/14:29:30		Doing Normalizing.
+2022-12-13/14:29:30		Changing to categorical.
+2022-12-13/14:29:30		Model Building.
+2022-12-13/14:29:30		Compiling Model.
+2022-12-13/14:29:30		Again doing train_test_split.
+2022-12-13/14:29:30		Fitting a model.
+2022-12-13/14:29:41		Saving Model.
+2022-12-13/14:29:41		Plotting the training history.
+2022-12-13/14:29:41		Successful End of Training
+2022-12-13/15:20:54		Start of Training
+2022-12-13/15:20:54		Doing Preprocessing.
+2022-12-13/15:20:54		I enter Preprocessing.
+2022-12-13/15:20:54		Doing train_test_split.
+2022-12-13/15:20:54		Finish train_test_split.
+2022-12-13/15:20:54		Doing Normalizing.
+2022-12-13/15:20:55		Changing to categorical.
+2022-12-13/15:20:55		Model Building.
+2022-12-13/15:20:55		Compiling Model.
+2022-12-13/15:20:55		Again doing train_test_split.
+2022-12-13/15:20:55		Fitting a model.
+2022-12-13/15:21:05		Saving Model.
+2022-12-13/15:21:05		Plotting the training history.
+2022-12-13/15:21:06		Successful End of Training
+2022-12-13/15:39:04		Start of Training
+2022-12-13/15:39:04		Doing Preprocessing.
+2022-12-13/15:39:04		I enter Preprocessing.
+2022-12-13/15:39:04		Doing train_test_split.
+2022-12-13/15:39:04		Finish train_test_split.
+2022-12-13/15:39:04		Doing Normalizing.
+2022-12-13/15:39:04		Changing to categorical.
+2022-12-13/15:39:04		Model Building.
+2022-12-13/15:39:04		Compiling Model.
+2022-12-13/15:39:04		Again doing train_test_split.
+2022-12-13/15:39:04		Fitting a model.
+2022-12-13/15:39:15		Saving Model.
+2022-12-13/15:39:15		Plotting the training history.
+2022-12-13/15:39:15		Successful End of Training
